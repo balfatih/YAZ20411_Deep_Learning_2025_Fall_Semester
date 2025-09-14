@@ -10,6 +10,24 @@
 
 
 
+## ℹ️ Ders Bilgisi
+
+|  | Bilgi |
+|---|---|
+| 👨‍🏫 **Öğretim Üyesi** | Dr. Öğr. Üyesi Ad Soyad |
+| 📧 **E-posta** | ad.soyad@klu.edu.tr |
+| 🏢 **Ofis** | Mühendislik Fakültesi, B Blok, Oda 210 |
+| 🕒 **Görüşme Saatleri** | Çarşamba 13:00 – 15:00 |
+
+
+## ℹ️ Ders Bilgisi
+
+> 👨‍🏫 **Öğretim Üyesi:** Dr. Öğr. Üyesi Ad Soyad  
+> 📧 **E-posta:** ad.soyad@klu.edu.tr  
+> 🏢 **Ofis:** Mühendislik Fakültesi, B Blok, Oda 210  
+> 🕒 **Görüşme Saatleri:** Çarşamba 13:00 – 15:00  
+
+
 ---
 
 ## 📅 Haftalık Ders Planı
