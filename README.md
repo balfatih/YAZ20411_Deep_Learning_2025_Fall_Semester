@@ -12,16 +12,16 @@
 
 ## 📅 Haftalık Ders Planı
 
-### 🔹 [1. Hafta - Giriş ve Temel Kavramlar](1-Hafta/)
+### 🔹 [1. Hafta - Giriş ve Temel Kavramlar](1_Week/)
 📘 Derin öğrenmeye giriş, tarihçe ve ortam kurulumu  
 
-### 🔹 [2. Hafta - Yapay Sinir Ağlarına Giriş](2-Hafta/)
+### 🔹 [2. Hafta - Yapay Sinir Ağlarına Giriş](2_Week/)
 🧠 Perceptron, MLP ve aktivasyon fonksiyonları  
 
-### 🔹 [3. Hafta - İleri Beslemeli Ağlar ve Geri Yayılım](3-Hafta/)
+### 🔹 [3. Hafta - İleri Beslemeli Ağlar ve Geri Yayılım](3_Week/)
 🔄 Feedforward ağlar ve Backpropagation  
 
-### 🔹 [4. Hafta - Derin Öğrenme için Optimizasyon](4-Hafta/)
+### 🔹 [4. Hafta - Derin Öğrenme için Optimizasyon](4_Week/)
 ⚡ Gradient Descent, Adam, RMSProp  
 
 ### 🔹 [5. Hafta - Düzenlileştirme Yöntemleri](5-Hafta/)
