@@ -13,7 +13,10 @@
 ## 📅 Haftalık Ders Planı
 
 ### 🔹 [1. Hafta - Giriş ve Temel Kavramlar](1_Week/)
-📘 Derin öğrenmeye giriş, tarihçe ve ortam kurulumu  
+📘 Yapay Zekâ Nedir?
+📘 Yapay Zekâ Tarihçesi?
+📘 Makine Öğrenmesi Nedir?
+📘 Regresyon Modelleri Nelerdir?
 
 ### 🔹 [2. Hafta - Yapay Sinir Ağlarına Giriş](2_Week/)
 🧠 Perceptron, MLP ve aktivasyon fonksiyonları  
