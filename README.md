@@ -3,41 +3,13 @@
 
 ## ℹ️ Ders Bilgisi
 
-![Hocam](https://img.shields.io/badge/Öğretim%20Üyesi-Dr.%20Öğr.%20Üyesi%20Ad%20Soyad-blue?style=for-the-badge)  
-![Mail](https://img.shields.io/badge/E--posta-ad.soyad@klu.edu.tr-red?style=for-the-badge&logo=gmail)  
-![Ofis](https://img.shields.io/badge/Ofis-Mühendislik%20Fakültesi%20B210-green?style=for-the-badge)  
-![Görüşme Saatleri](https://img.shields.io/badge/Görüşme%20Saatleri-Çarşamba%2013:00--15:00-orange?style=for-the-badge)  
-
-
-
-## ℹ️ Ders Bilgisi
-
 |  | Bilgi |
 |---|---|
-| 👨‍🏫 **Öğretim Üyesi** | Dr. Öğr. Üyesi Ad Soyad |
-| 📧 **E-posta** | ad.soyad@klu.edu.tr |
-| 🏢 **Ofis** | Mühendislik Fakültesi, B Blok, Oda 210 |
-| 🕒 **Görüşme Saatleri** | Çarşamba 13:00 – 15:00 |
-
-## ℹ️ Ders Bilgisi
-
-|  | Bilgi |
-|---|---|
-| 👨‍🏫 **Ders Sorumlusu** | Dr. Öğr. Üyesi Ad Soyad |
-| 📧 **E-posta** | ad.soyad@klu.edu.tr |
-| 🏢 **Ofis** | Mühendislik Fakültesi, B Blok, Oda 210 |
-| 🕒 **Görüşme Saatleri** | Çarşamba 13:00 – 15:00 |
-
-
-
-
-## ℹ️ Ders Bilgisi
-
-> 👨‍🏫 **Öğretim Üyesi:** Dr. Öğr. Üyesi Ad Soyad  
-> 📧 **E-posta:** ad.soyad@klu.edu.tr  
-> 🏢 **Ofis:** Mühendislik Fakültesi, B Blok, Oda 210  
-> 🕒 **Görüşme Saatleri:** Çarşamba 13:00 – 15:00  
-
+| 👨‍🏫 **Ders Sorumlusu** | Dr. Öğr. Üyesi Fatih BAL|
+| 📧 **E-posta** | fatihbal@klu.edu.tr |
+| 🏢 **Ofis-1** | Mühendislik Fakültesi Laboratuvarları, B Blok, Kat:2 Ofis No:10|
+| 🏢 **Ofis-2** | GADOM Merkez Binası, Kat:1 Ofis No:2|
+| 🕒 **Görüşme Saatleri** | Pazartesi 13:00 – 15:00 |
 
 ---
 
