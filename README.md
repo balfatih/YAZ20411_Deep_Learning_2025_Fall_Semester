@@ -23,7 +23,8 @@
 
 |  | Bilgi |
 |---|---|
-| 👨‍🏫 ![Ders Sorumlusu] | Dr. Öğr. Üyesi Ad Soyad |
+| 👨‍🏫 https://img.shields.io/chrome-web-store/size/DERS%20SORUMLUSU
+ | Dr. Öğr. Üyesi Ad Soyad |
 | 📧 **E-posta** | ad.soyad@klu.edu.tr |
 | 🏢 **Ofis** | Mühendislik Fakültesi, B Blok, Oda 210 |
 | 🕒 **Görüşme Saatleri** | Çarşamba 13:00 – 15:00 |
